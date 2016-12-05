@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-pokemons",
+  "version": "1.0.0",
+  "description": "Schemas com Moongose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoosem",
+    "mongofb",
+    "nodejs"
+  ],
+  "author": "fabio",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.6.8"
+  }
+}

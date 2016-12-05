@@ -1,0 +1,26 @@
+{
+  "name": "pokemons-api",
+  "version": "0.0.1",
+  "description": "aula node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "node",
+    "mongodb",
+    "webschool"
+  ],
+  "author": "fabio",
+  "license": "WTFPL",
+  "dependencies": {
+    "mongoose": "^4.6.8"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "optionalDependencies": {
+    "colors": "^1.1.2"
+  }
+}
